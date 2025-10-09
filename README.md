@@ -20,3 +20,4 @@ Java Arrays Class Methods, Explained with Examples
 Example 1: asList() method.
 
 This method converts an array into a list.
+![image alt](https://github.com/harshadev-7/Array-class/blob/b379ff74069f7f88f2174c41c8cda8951c3d14f9/Array-to-ArrayList.png)
