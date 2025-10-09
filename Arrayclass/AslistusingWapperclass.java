@@ -7,7 +7,7 @@ public class AslistusingWapperclass {
         System.out.println("enter the size of an array:");
         int n = scan.nextInt();
         Integer arr[] = new Integer[n];
-        System.out.println("enter the elements in an array");
+        System.out.println("enter the elements in an array:");
         for (i =0;i < arr.length;i++)
         {
             arr[i]=scan.nextInt();
